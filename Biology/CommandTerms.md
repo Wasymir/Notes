@@ -53,7 +53,6 @@ Command term | What they want us to do
 Analyze | Break down in order to bring out the essential elements or structure
 Comment | Give a judgment based on a given statement or result of a calculation
 Compare | Give an account of similarities and differences between two (or more) items, referring to both (all) of them through (both similarities and differences)
-Compare and contrast | Give an account of similarities and differences between two (or more) items or situations, referring to both (all) of them throughout.
 Construct | Display information in a diagrammatic or logical form
 Deduce | Reach a conclusion from the information given
 Design | Produce a plan, possible answer
