@@ -55,12 +55,12 @@ Construct | Display information in a diagrammatic or logical form
 Deduce | Reach a conclusion from the information given
 Design | Produce a plan, possible answer
 Determinate | Obtain the only possible answer
-Discuss | Offer a considered and valanced review that incudes a range of arguments factors or hypotheses . Opinions or conclusions should be presented clearly ad supported bt appropriate evidence.
+Discuss | Offer a considered and balanced review that incudes a range of arguments factors or hypotheses. Opinions or conclusions should be presented clearly and supported by appropriate evidence.
 Evaluate | Make an appraisal by weighting up the strengths and limitations
 Explain | Give a detailed account including reasons or causes
 Predict | Give an expected result
 Show | Give the steps in a calculation or derivation
-Sketch | Represent by means of a diagram of graph (labelled as appropriate). The sketch should give a general idea od the required shape or relationship, and should include relevant features.
+Sketch | Represent by means of a diagram or graph (labelled as appropriate). The sketch should give a general idea od the required shape or relationship, and should include relevant features.
 Suggest | Propose a solution, hypothesis or other possible answer
 
 > **Fermentation** - metabolic respiration without oxygen
