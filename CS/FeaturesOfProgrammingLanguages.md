@@ -1,6 +1,7 @@
 # Features of Programing Resources
 
 7.09.2023
+14.09.2023
 ___
 
 Programming language | Natural Language
@@ -12,8 +13,8 @@ consistent over time | changes over time
 
 ___
 
-**Fundamental computer operation** - simple one instruction operation\
-**Compound computer operation** = operation that requires more than one operation
+> **Fundamental computer operation** - simple one instruction operation\
+> **Compound computer operation** = operation that requires more than one operation
 
 ___
 
@@ -44,3 +45,7 @@ understood by the computer | mostly fundamental operations | mostly compound ope
 2) easier to make an error, less safe
 3) harder to understand & write
 
+___
+
+> **Syntax** - is all the rules of what our code should look like.\
+> **Semantics** - is the results a given piece of code produces and calculations that are made.
