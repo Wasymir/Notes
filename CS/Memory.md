@@ -1,6 +1,7 @@
 # Memory
 
-8.09.2023
+8.09.2023\
+15.09.2023
 
 ___
 
@@ -23,20 +24,27 @@ Primary Memory | Secondary Memory
 Registers | SSD
 Caches | Flash
 RAM | HDD
-ROM |
+ROM | Magnetic Tape
+&nbsp; | CD / DVD
+&nbsp; | Floppy Disk
 
 Computer can start & run without Secondary Memory, but can't without Primary Memory.
 
+> **sequential access** - you can only access data in one region\
+> **random access** - you can access any part of data without waiting
 ___
 
-**Persistent memory** remains between reboots, does not need power to store data.\
-**Violate memory** disappears between reboots, needs power to store data 
+> **Persistent memory** remains between reboots, does not need power to store data.\
+> **Violate memory** disappears between reboots, needs power to store data 
 
 Persistent memory:
 1) SDD 
 2) HDD
 3) ROM
 4) Flash
+5) Magnetic Tape
+6) CD / DVD
+7) Floppy Disk
 
 Volatile memory:
 1) Registers
@@ -45,8 +53,8 @@ Volatile memory:
  
 ___
 
-**L1 Cache** is inside CPU\
-**L2 Cache** is outside CPU
+L1 Cache is inside CPU\
+L2 Cache is outside CPU
 ```
 
                    +------|CPU|--------+
@@ -57,16 +65,17 @@ ___
 ```
 ___
 
-**Latency** - time needed to start getting memory from somewhere.
+> **Latency** - time needed to start getting memory from somewhere.
 ___
 
-**DRAM** - Dynamic RAM - looses data over time (even with electricity), need to be refreshed periodically.\  
-**SRAM** - Static RAM - data stats as long as power is on, but it is more complicated and expensive, but is faster.\
+> **DRAM** - Dynamic RAM - looses data over time (even with electricity), need to be refreshed periodically.
+> **SRAM** - Static RAM - data stats as long as power is on, but it is more complicated and expensive, but is faster.
+
 We use SRAM in Registers and Caches, DRAM we use in RAM.
 ___
 
-**BIOS** - Basic Input Output System\
-**UEFI** - Unified Extensible Firmware Interface (BIOS but better)
+> **BIOS** - Basic Input Output System\
+> **UEFI** - Unified Extensible Firmware Interface (BIOS but better)
 
 ___
 
